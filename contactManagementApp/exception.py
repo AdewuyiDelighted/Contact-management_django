@@ -1,0 +1,2 @@
+class InvalidLoginDetail(ValueError):
+    pass
